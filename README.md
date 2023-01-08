@@ -1,7 +1,7 @@
 <h1 align="center">Móveis customizados</h1>
 
 <p align="center">
-Projeto desenvolvido durante as primeiras aulas  do Nível 01 da formação Explorer da Rocketseat.
+Projeto desenvolvido durante as primeiras aulas do Stage 02 da formação Explorer da Rocketseat.
 </p>
 
 <p align="center">
